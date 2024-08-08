@@ -1,0 +1,2 @@
+/Users/rafiq/Documents/SwiftProjects/FactFinder/FactFinder/BERTQAFP16.mlmodel filter=lfs diff=lfs merge=lfs -text
+*.mlmodel filter=lfs diff=lfs merge=lfs -text
