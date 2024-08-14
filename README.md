@@ -60,7 +60,7 @@ Text Query is an iOS app that allows users to capture text from an image, conver
 
 ## License
 
-This project is licensed under the Apple Inc for the BERT-SQuAD model - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apple Inc for the BERT-SQuAD model - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
