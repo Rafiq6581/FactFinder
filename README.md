@@ -1,9 +1,9 @@
 # FactFinder
 This app uses VisionKit and BERT to scan for text and allow the user to find info on the text
 
-# Text Query iOS App
+# FactFinder iOS App
 
-![App Demo](path_to_your_gif.gif) <!-- Replace with the actual path to your GIF -->
+![App Demo](FactFinder.gif) <!-- Replace with the actual path to your GIF -->
 
 ## Overview
 
